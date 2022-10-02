@@ -1,0 +1,118 @@
+.App {
+  text-align: center;
+  background-color: whitesmoke;
+  height: fit-content;
+  width: 100%;
+  
+ margin-top: 28rem;
+ display: flex;
+ 
+
+
+}
+.srch{
+  margin: 10px;
+  
+}
+input{
+  width: 220px;
+}
+.images{
+  margin-top: 10px;
+  margin-left: 2%;
+}
+
+.whats{
+  height:23px;
+  width: 20px;
+  margin-right: 20px;
+  border: none;
+  border-radius: 23px;
+  
+}
+.sun{
+  height:23px;
+  width: 20px;
+  margin-right: 20px;
+  margin-left: 300px;
+  border: none;
+  border-radius: 23px;
+  margin-top: 10px;
+  
+}
+.crome{
+  margin-right: 20px;
+  height:23px;
+  width: 20px;
+  
+}
+.folder{
+  margin-right: 20px;
+  height:23px;
+  width: 20px;
+  
+}
+.windo{
+  margin-right: 20px;
+  height:15px;
+  width: 15px;
+  
+}
+.set{
+  margin-right: 20px;
+  height:23px;
+  width: 20px;
+  
+}
+.opra{
+  margin-right: 20px;
+  height:23px;
+  width: 20px;
+
+}
+.meet{
+  /* margin-right: 5px; */
+  height:23px;
+  width: 20px;
+  border-radius: 30px;
+  
+}
+.aud{
+  border-radius: 6px;
+ 
+  height:23px;
+  width: 10px;
+
+}
+.mesg{
+  border-radius: 6px;
+padding-right: 10px;
+
+
+   margin-top: 10px;
+  height:20px;
+
+
+} 
+.serachbox
+{
+  border-top: none;
+  background: none;
+  height: 20px;
+}
+p{
+  font-size: smaller;
+  width: fit-content;
+ 
+
+}
+
+.fold{
+  height: 60px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.gap-div{
+
+  width: 13rem;
+}
